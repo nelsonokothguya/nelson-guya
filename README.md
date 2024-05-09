@@ -1,4 +1,4 @@
-# Hi, I'm Nelson Okoth Guya! 👋
+# Hi, I'm Nelson Guya! 👋
 
 I'm a Full Stack Developer with 3+ years of experience crafting web solutions that enhance online presence and engagement. 
 With a blend of technical mastery and aesthetic precision, I offer a suite of services to meet diverse digital needs.
@@ -32,7 +32,7 @@ With a blend of technical mastery and aesthetic precision, I offer a suite of se
 ## 🌱 Let's Connect
 
 - 📫 **GitHub**: [Nelson Guya](https://github.com/nelsonokothguya)
-- 🐦 **Twitter**: [@nelson_guya](https://twitter.com/NelsonGuya)
+- 🐦 **Twitter**: [@nelson_guya](https://twitter.com/nelson_huya)
 - 💼 **LinkedIn**: [Nelson Guya](https://www.linkedin.com/in/okothguya/)
 
 Thank you for visiting my profile. Let's embark on a journey to achieve excellence in your web projects!
