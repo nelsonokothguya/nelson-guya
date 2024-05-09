@@ -37,4 +37,4 @@ With a blend of technical mastery and aesthetic precision, I offer a suite of se
 
 Thank you for visiting my profile. Let's embark on a journey to achieve excellence in your web projects!
 
-![Nelson's Stats](https://github-readme-stats.vercel.app/api?username=NelsonGuya&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Nelson's Stats](https://github-readme-stats.vercel.app/api?username=nelsonokothguya&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
