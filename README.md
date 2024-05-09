@@ -1,4 +1,4 @@
-# Hi, I'm Nelson Guya! 👋
+# Hi, I'm Nelson Okoth Guya! 👋
 
 I'm a seasoned Full Stack Developer dedicated to crafting powerful web solutions that enhance online presence and engagement. 
 With a blend of technical mastery and aesthetic precision, I offer a suite of services to meet diverse digital needs.
