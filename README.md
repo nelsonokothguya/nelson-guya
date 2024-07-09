@@ -1,6 +1,6 @@
 # Hi, I'm Nelson Guya! 👋
 
-I'm a Full Stack Developer with 3+ years of experience crafting web solutions that enhance online presence and engagement. 
+I'm a Full Stack Developer with 5 years of experience crafting web solutions that enhance online presence and engagement. 
 With a blend of technical mastery and aesthetic precision, I offer a suite of services to meet diverse digital needs.
 
 ## 🚀 What I Offer
